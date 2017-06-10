@@ -1,4 +1,3 @@
 # meetup
 
-Dookerper
-https://manage.doorkeeper.jp/groups/toyamarb
+- [connpass](https://toyamarb.connpass.com/)
